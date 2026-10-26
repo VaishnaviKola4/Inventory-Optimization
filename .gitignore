@@ -1,0 +1,9 @@
+__pycache__/
+.venv/
+.pytest_cache/
+*.py[cod]
+.env
+.streamlit/secrets.toml
+outputs/recommendations.json
+outputs/recommendations.csv
+outputs/inventory_management_report.pdf

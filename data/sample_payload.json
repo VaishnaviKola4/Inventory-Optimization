@@ -1,0 +1,2227 @@
+{
+  "sales": [
+    {
+      "date": "2026-06-25",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 8,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-06-26",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 9,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-06-27",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 11,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-06-28",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 6,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-06-29",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 5,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-06-30",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 6,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-07-01",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 5,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-07-02",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 6,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-07-03",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 10,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-07-04",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 11,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-07-05",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 10,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-07-06",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 4,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-07-07",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 8,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-07-08",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 9,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-07-09",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 6,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-07-10",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 9,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-07-11",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 11,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-07-12",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 8,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-07-13",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 6,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-07-14",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 4,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-07-15",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 5,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-07-16",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 4,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-07-17",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 8,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-07-18",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 5,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-07-19",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 8,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-07-20",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 12,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-07-21",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 7,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-07-22",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 9,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-07-23",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 8,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-07-24",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 22,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-07-25",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 8,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-07-26",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 6,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-07-27",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 2,
+      "promotion_flag": 1,
+      "holiday_flag": 0,
+      "unit_price": 2.29
+    },
+    {
+      "date": "2026-07-28",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 7,
+      "promotion_flag": 1,
+      "holiday_flag": 0,
+      "unit_price": 2.29
+    },
+    {
+      "date": "2026-07-29",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 7,
+      "promotion_flag": 1,
+      "holiday_flag": 0,
+      "unit_price": 2.29
+    },
+    {
+      "date": "2026-07-30",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 11,
+      "promotion_flag": 1,
+      "holiday_flag": 0,
+      "unit_price": 2.29
+    },
+    {
+      "date": "2026-07-31",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 7,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-08-01",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 5,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-08-02",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 8,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-08-03",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 1,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-08-04",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 6,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-08-05",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 2,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-08-06",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 8,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-08-07",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 9,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-08-08",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 4,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-08-09",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 6,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-08-10",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 4,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-08-11",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 4,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-08-12",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 4,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-08-13",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 8,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-08-14",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 11,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-08-15",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 8,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-08-16",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 6,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-08-17",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 4,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-08-18",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 5,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-08-19",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 7,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-08-20",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 4,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-08-21",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 5,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-08-22",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 9,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-08-23",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 7,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-08-24",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 4,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-08-25",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 9,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-08-26",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 5,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-08-27",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 8,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-08-28",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 8,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-08-29",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 9,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-08-30",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 8,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-08-31",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 4,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-09-01",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 6,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-09-02",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 8,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-09-03",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 8,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-09-04",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 4,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-09-05",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 7,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 2.56
+    },
+    {
+      "date": "2026-09-06",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 7,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 2.56
+    },
+    {
+      "date": "2026-09-07",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 8,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-09-08",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 4,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-09-09",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 6,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-09-10",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 3,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-09-11",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 7,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-09-12",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 7,
+      "promotion_flag": 1,
+      "holiday_flag": 0,
+      "unit_price": 2.29
+    },
+    {
+      "date": "2026-09-13",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 7,
+      "promotion_flag": 1,
+      "holiday_flag": 0,
+      "unit_price": 2.29
+    },
+    {
+      "date": "2026-09-14",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 6,
+      "promotion_flag": 1,
+      "holiday_flag": 0,
+      "unit_price": 2.29
+    },
+    {
+      "date": "2026-09-15",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 5,
+      "promotion_flag": 1,
+      "holiday_flag": 0,
+      "unit_price": 2.29
+    },
+    {
+      "date": "2026-09-16",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 10,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-09-17",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 3,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-09-18",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 4,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-09-19",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 4,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-09-20",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 6,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-09-21",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 2,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-09-22",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 7,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-09-23",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 4,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-09-24",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 5,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-09-25",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 6,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-09-26",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 6,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-09-27",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 4,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-09-28",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 3,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-09-29",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 3,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-09-30",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 5,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-10-01",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 5,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-10-02",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 5,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-10-03",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 4,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-10-04",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 9,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-10-05",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 5,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-10-06",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 7,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-10-07",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 7,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-10-08",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 9,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-10-09",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 4,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-10-10",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 10,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-10-11",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 8,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-10-12",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 5,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-10-13",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 5,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-10-14",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 9,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-10-15",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 3,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-10-16",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 5,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-10-17",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 5,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-10-18",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 3,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-10-19",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 8,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-10-20",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 5,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-10-21",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 6,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-10-22",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "units_sold": 4,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 2.49
+    },
+    {
+      "date": "2026-06-25",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 14,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-06-26",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 10,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-06-27",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 22,
+      "promotion_flag": 1,
+      "holiday_flag": 0,
+      "unit_price": 5.51
+    },
+    {
+      "date": "2026-06-28",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 17,
+      "promotion_flag": 1,
+      "holiday_flag": 0,
+      "unit_price": 5.51
+    },
+    {
+      "date": "2026-06-29",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 16,
+      "promotion_flag": 1,
+      "holiday_flag": 0,
+      "unit_price": 5.51
+    },
+    {
+      "date": "2026-06-30",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 16,
+      "promotion_flag": 1,
+      "holiday_flag": 0,
+      "unit_price": 5.51
+    },
+    {
+      "date": "2026-07-01",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 12,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-07-02",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 9,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-07-03",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 12,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-07-04",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 12,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-07-05",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 17,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-07-06",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 9,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-07-07",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 4,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-07-08",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 12,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-07-09",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 10,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-07-10",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 10,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-07-11",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 21,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-07-12",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 5,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-07-13",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 6,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-07-14",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 8,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-07-15",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 6,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-07-16",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 6,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-07-17",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 10,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-07-18",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 4,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-07-19",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 8,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-07-20",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 10,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-07-21",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 6,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-07-22",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 8,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-07-23",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 11,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-07-24",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 12,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-07-25",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 14,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-07-26",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 11,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-07-27",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 5,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-07-28",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 7,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-07-29",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 6,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-07-30",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 14,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-07-31",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 15,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-08-01",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 9,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-08-02",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 14,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-08-03",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 4,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-08-04",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 13,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-08-05",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 7,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-08-06",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 6,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-08-07",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 8,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-08-08",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 9,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-08-09",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 8,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-08-10",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 4,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-08-11",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 11,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-08-12",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 11,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-08-13",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 7,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-08-14",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 8,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-08-15",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 5,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-08-16",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 20,
+      "promotion_flag": 1,
+      "holiday_flag": 0,
+      "unit_price": 5.51
+    },
+    {
+      "date": "2026-08-17",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 9,
+      "promotion_flag": 1,
+      "holiday_flag": 0,
+      "unit_price": 5.51
+    },
+    {
+      "date": "2026-08-18",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 16,
+      "promotion_flag": 1,
+      "holiday_flag": 0,
+      "unit_price": 5.51
+    },
+    {
+      "date": "2026-08-19",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 13,
+      "promotion_flag": 1,
+      "holiday_flag": 0,
+      "unit_price": 5.51
+    },
+    {
+      "date": "2026-08-20",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 7,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-08-21",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 6,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-08-22",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 14,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-08-23",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 13,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-08-24",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 17,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-08-25",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 15,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-08-26",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 5,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-08-27",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 6,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-08-28",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 13,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-08-29",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 13,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-08-30",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 10,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-08-31",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 8,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-09-01",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 10,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-09-02",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 14,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-09-03",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 8,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-09-04",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 14,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-09-05",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 11,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 6.17
+    },
+    {
+      "date": "2026-09-06",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 10,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 6.17
+    },
+    {
+      "date": "2026-09-07",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 4,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-09-08",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 12,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-09-09",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 11,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-09-10",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 8,
+      "promotion_flag": 0,
+      "holiday_flag": 1,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-09-11",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 7,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-09-12",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 13,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-09-13",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 13,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-09-14",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 9,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-09-15",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 11,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-09-16",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 7,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-09-17",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 7,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-09-18",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 8,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-09-19",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 9,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-09-20",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 9,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-09-21",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 11,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-09-22",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 3,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-09-23",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 11,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-09-24",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 4,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-09-25",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 20,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-09-26",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 10,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-09-27",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 13,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-09-28",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 7,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-09-29",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 9,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-09-30",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 6,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-10-01",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 6,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-10-02",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 13,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-10-03",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 10,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-10-04",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 6,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-10-05",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 5,
+      "promotion_flag": 1,
+      "holiday_flag": 0,
+      "unit_price": 5.51
+    },
+    {
+      "date": "2026-10-06",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 16,
+      "promotion_flag": 1,
+      "holiday_flag": 0,
+      "unit_price": 5.51
+    },
+    {
+      "date": "2026-10-07",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 9,
+      "promotion_flag": 1,
+      "holiday_flag": 0,
+      "unit_price": 5.51
+    },
+    {
+      "date": "2026-10-08",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 16,
+      "promotion_flag": 1,
+      "holiday_flag": 0,
+      "unit_price": 5.51
+    },
+    {
+      "date": "2026-10-09",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 18,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-10-10",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 6,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-10-11",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 10,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-10-12",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 9,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-10-13",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 4,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-10-14",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 8,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-10-15",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 5,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-10-16",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 7,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-10-17",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 3,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-10-18",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 6,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-10-19",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 6,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-10-20",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 9,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-10-21",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 10,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    },
+    {
+      "date": "2026-10-22",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "units_sold": 7,
+      "promotion_flag": 0,
+      "holiday_flag": 0,
+      "unit_price": 5.99
+    }
+  ],
+  "inventory": [
+    {
+      "snapshot_date": "2026-10-22",
+      "product_id": "SKU-1001",
+      "warehouse_id": "WH-NORTH",
+      "on_hand": 12,
+      "on_order": 0,
+      "reserved": 0
+    },
+    {
+      "snapshot_date": "2026-10-22",
+      "product_id": "SKU-1002",
+      "warehouse_id": "WH-SOUTH",
+      "on_hand": 164,
+      "on_order": 18,
+      "reserved": 7
+    }
+  ],
+  "products": [
+    {
+      "product_id": "SKU-1001",
+      "product_name": "Granola Snack Box",
+      "category": "Grocery",
+      "warehouse_id": "WH-NORTH",
+      "unit_cost": 1.15,
+      "unit_price": 2.49,
+      "pack_size": 8,
+      "minimum_order_quantity": 45,
+      "shelf_life_days": 180,
+      "base_daily_demand": 8.0,
+      "demand_pattern": "fast"
+    },
+    {
+      "product_id": "SKU-1002",
+      "product_name": "Sparkling Water 12-pack",
+      "category": "Grocery",
+      "warehouse_id": "WH-SOUTH",
+      "unit_cost": 3.11,
+      "unit_price": 5.99,
+      "pack_size": 12,
+      "minimum_order_quantity": 48,
+      "shelf_life_days": 180,
+      "base_daily_demand": 11.0,
+      "demand_pattern": "fast"
+    }
+  ],
+  "suppliers": [
+    {
+      "product_id": "SKU-1001",
+      "supplier_id": "SUP-01",
+      "lead_time_days": 5,
+      "review_period_days": 7
+    },
+    {
+      "product_id": "SKU-1002",
+      "supplier_id": "SUP-02",
+      "lead_time_days": 4,
+      "review_period_days": 7
+    }
+  ],
+  "horizon": 30,
+  "service_level": 0.95,
+  "minimum_history_days": 45
+}

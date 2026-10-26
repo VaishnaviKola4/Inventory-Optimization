@@ -1,0 +1,21 @@
+product_id,product_name,category,warehouse_id,unit_cost,unit_price,pack_size,minimum_order_quantity,shelf_life_days,base_daily_demand,demand_pattern
+SKU-1001,Granola Snack Box,Grocery,WH-NORTH,1.15,2.49,8,45,180,8.0,fast
+SKU-1002,Sparkling Water 12-pack,Grocery,WH-SOUTH,3.11,5.99,12,48,180,11.0,fast
+SKU-1003,Premium Coffee Beans,Grocery,WH-EAST,7.53,12.99,6,24,180,5.5,steady
+SKU-1004,Protein Bar Variety,Grocery,WH-WEST,1.61,3.49,10,50,180,7.5,promo
+SKU-1005,Olive Oil 500ml,Grocery,WH-NORTH,5.71,10.99,4,20,180,2.7,steady
+SKU-2001,Modular Storage Bin,Home,WH-SOUTH,11.01,18.99,6,30,0,4.5,steady
+SKU-2002,Ceramic Mug Set,Home,WH-EAST,11.5,24.99,4,20,0,2.5,seasonal
+SKU-2003,LED Desk Lamp,Home,WH-WEST,18.19,34.99,3,15,0,1.8,slow
+SKU-2004,Kitchen Organizer,Home,WH-NORTH,9.57,16.5,5,25,0,3.7,steady
+SKU-3001,Hydrating Face Serum,Personal Care,WH-SOUTH,9.2,19.99,8,40,0,6.5,fast
+SKU-3002,Daily Shampoo 400ml,Personal Care,WH-EAST,4.41,8.49,12,60,0,9.0,steady
+SKU-3003,Vitamin Wellness Pack,Personal Care,WH-WEST,8.69,14.99,4,20,0,3.2,intermittent
+SKU-3004,Hair Styling Kit,Personal Care,WH-NORTH,10.58,22.99,3,15,0,1.1,slow
+SKU-4001,Everyday Cotton Tee,Apparel,WH-SOUTH,7.79,14.99,6,30,0,5.0,steady
+SKU-4002,Lightweight Jacket,Apparel,WH-EAST,34.79,59.99,2,12,0,1.8,seasonal
+SKU-4003,Everyday Socks 5-pack,Apparel,WH-WEST,4.6,9.99,8,40,0,6.0,fast
+SKU-4004,Canvas Tote Bag,Apparel,WH-NORTH,6.5,12.5,4,20,0,2.0,slow
+SKU-5001,Wireless Earbuds,Electronics,WH-SOUTH,28.99,49.99,3,18,0,2.2,promo
+SKU-5002,USB-C Charging Cable,Electronics,WH-EAST,5.52,11.99,10,50,0,7.0,fast
+SKU-5003,Smart Plug Duo,Electronics,WH-WEST,15.59,29.99,3,15,0,1.5,intermittent

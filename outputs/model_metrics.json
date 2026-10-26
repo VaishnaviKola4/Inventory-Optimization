@@ -1,0 +1,243 @@
+{
+  "dataset": "Synthetic retail inventory demo dataset",
+  "synthetic_data": true,
+  "sales_rows": 10000,
+  "sku_count": 20,
+  "warehouse_count": 4,
+  "history_start": "2025-06-10",
+  "history_end": "2026-10-22",
+  "training_rows": 8880,
+  "holdout_train_rows": 8880,
+  "final_model_training_rows": 9440,
+  "holdout_days": 28,
+  "holdout_observations": 560,
+  "model": "RandomForestRegressor (global pooled SKU model)",
+  "features": [
+    "product_code",
+    "warehouse_code",
+    "category_code",
+    "price",
+    "promotion_flag",
+    "holiday_flag",
+    "day_of_week",
+    "day_of_month",
+    "month",
+    "dayofyear_sin",
+    "dayofyear_cos",
+    "trend_day",
+    "lag_1",
+    "lag_7",
+    "lag_14",
+    "lag_28",
+    "rolling_7",
+    "rolling_28",
+    "rolling_std_28"
+  ],
+  "model_mae_units_per_day": 2.167,
+  "model_rmse_units_per_day": 2.9,
+  "model_wape_percent": 41.97,
+  "model_bias_units_per_day": 0.523,
+  "seasonal_naive_mae_units_per_day": 2.891,
+  "seasonal_naive_wape_percent": 56.0,
+  "sku_holdout_metrics": [
+    {
+      "product_id": "SKU-1001",
+      "mae": 1.72,
+      "wape_percent": 30.48,
+      "holdout_units": 158
+    },
+    {
+      "product_id": "SKU-1002",
+      "mae": 2.969,
+      "wape_percent": 32.73,
+      "holdout_units": 254
+    },
+    {
+      "product_id": "SKU-1003",
+      "mae": 2.492,
+      "wape_percent": 53.25,
+      "holdout_units": 131
+    },
+    {
+      "product_id": "SKU-1004",
+      "mae": 1.99,
+      "wape_percent": 24.44,
+      "holdout_units": 228
+    },
+    {
+      "product_id": "SKU-1005",
+      "mae": 1.853,
+      "wape_percent": 57.03,
+      "holdout_units": 91
+    },
+    {
+      "product_id": "SKU-2001",
+      "mae": 1.95,
+      "wape_percent": 48.74,
+      "holdout_units": 112
+    },
+    {
+      "product_id": "SKU-2002",
+      "mae": 1.225,
+      "wape_percent": 55.33,
+      "holdout_units": 62
+    },
+    {
+      "product_id": "SKU-2003",
+      "mae": 1.097,
+      "wape_percent": 76.81,
+      "holdout_units": 40
+    },
+    {
+      "product_id": "SKU-2004",
+      "mae": 1.985,
+      "wape_percent": 31.05,
+      "holdout_units": 179
+    },
+    {
+      "product_id": "SKU-3001",
+      "mae": 2.678,
+      "wape_percent": 28.51,
+      "holdout_units": 263
+    },
+    {
+      "product_id": "SKU-3002",
+      "mae": 2.542,
+      "wape_percent": 27.07,
+      "holdout_units": 263
+    },
+    {
+      "product_id": "SKU-3003",
+      "mae": 4.04,
+      "wape_percent": 97.52,
+      "holdout_units": 116
+    },
+    {
+      "product_id": "SKU-3004",
+      "mae": 1.067,
+      "wape_percent": 96.34,
+      "holdout_units": 31
+    },
+    {
+      "product_id": "SKU-4001",
+      "mae": 3.659,
+      "wape_percent": 48.33,
+      "holdout_units": 212
+    },
+    {
+      "product_id": "SKU-4002",
+      "mae": 1.118,
+      "wape_percent": 49.69,
+      "holdout_units": 63
+    },
+    {
+      "product_id": "SKU-4003",
+      "mae": 2.341,
+      "wape_percent": 32.95,
+      "holdout_units": 199
+    },
+    {
+      "product_id": "SKU-4004",
+      "mae": 1.707,
+      "wape_percent": 88.51,
+      "holdout_units": 54
+    },
+    {
+      "product_id": "SKU-5001",
+      "mae": 1.204,
+      "wape_percent": 41.13,
+      "holdout_units": 82
+    },
+    {
+      "product_id": "SKU-5002",
+      "mae": 3.176,
+      "wape_percent": 32.69,
+      "holdout_units": 272
+    },
+    {
+      "product_id": "SKU-5003",
+      "mae": 2.523,
+      "wape_percent": 87.2,
+      "holdout_units": 81
+    }
+  ],
+  "feature_importance": [
+    {
+      "feature": "rolling_28",
+      "importance": 0.48986
+    },
+    {
+      "feature": "rolling_7",
+      "importance": 0.11704
+    },
+    {
+      "feature": "promotion_flag",
+      "importance": 0.05377
+    },
+    {
+      "feature": "rolling_std_28",
+      "importance": 0.0486
+    },
+    {
+      "feature": "day_of_week",
+      "importance": 0.03582
+    },
+    {
+      "feature": "dayofyear_cos",
+      "importance": 0.02882
+    },
+    {
+      "feature": "day_of_month",
+      "importance": 0.02813
+    },
+    {
+      "feature": "lag_28",
+      "importance": 0.02717
+    },
+    {
+      "feature": "lag_1",
+      "importance": 0.02647
+    },
+    {
+      "feature": "dayofyear_sin",
+      "importance": 0.02639
+    },
+    {
+      "feature": "lag_14",
+      "importance": 0.02376
+    },
+    {
+      "feature": "trend_day",
+      "importance": 0.02347
+    },
+    {
+      "feature": "lag_7",
+      "importance": 0.02248
+    },
+    {
+      "feature": "holiday_flag",
+      "importance": 0.01294
+    },
+    {
+      "feature": "price",
+      "importance": 0.0082
+    },
+    {
+      "feature": "month",
+      "importance": 0.00819
+    },
+    {
+      "feature": "product_code",
+      "importance": 0.00817
+    },
+    {
+      "feature": "category_code",
+      "importance": 0.00628
+    },
+    {
+      "feature": "warehouse_code",
+      "importance": 0.00443
+    }
+  ],
+  "note": "Evaluation is a synthetic-data holdout, not evidence of performance on a real retailer. The final model is retrained on all generated history for demo forecasts."
+}
